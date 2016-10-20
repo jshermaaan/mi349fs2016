@@ -1,0 +1,46 @@
+/* Add your CSS below */
+/* Example: adding a background color to the HTML body */
+body {
+  background: linear-gradient(50deg, rgb(307, 304, 345), white, rgb(517, 204, 255));
+  font-family: Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+  .recipesAll img {
+    padding-left: 120px;
+
+  }
+
+
+
+
+
+  .recipesAll, .smoothie-ingredients {
+  	text-align: left;
+    box-shadow: 0 0 100px rgba(0,0,0,0.5);
+    margin: 0 auto;
+    margin-top: 100px;
+    padding: 1em;
+    width: 500px;
+  }
+
+  .recipesAll,  .broccoli-ingredients {
+    text-align: left;
+    box-shadow: 0 0 100px rgba(0,0,0,0.5);
+    margin: 0 auto;
+    margin-top: 100px;
+    padding: 1em;
+    width: 500px;
+  }
+
+
+  .smoothie-instructions, .granola-instructions, .broccoli-instructions, .recipesAll, .granola-ingredients {
+    text-align: left;
+    box-shadow: 0 0 100px rgba(0,0,0,0.5);
+    margin: 0 auto;
+    margin-top: 100px;
+    padding: 1em;
+    width: 500px;
+}
+  }
